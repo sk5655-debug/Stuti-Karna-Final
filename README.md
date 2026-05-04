@@ -1,4 +1,4 @@
-# Data analysis
+# Data Analysis Plan
 
 ## Research question
 ## Key Finding
