@@ -1,17 +1,17 @@
-Data analysis
+# Data analysis
 
-Research question
-Key Finding
+## Research question
+## Key Finding
 
-Variable Construction
+## Variable Construction
 
-Dependencies
+## Dependencies
 
-How to Run the Analysis
+## How to Run the Analysis
 
-Results:
+## Results:
 
-Descriptive statistics:
+## Descriptive statistics:
 
-Relationship between ...
+## Relationship between ...
 
