@@ -65,7 +65,7 @@ The analysis sample included 3,666 women with a mean age of 46.6 years (SD = 13.
 Of the 3,666 women, 1,684 (45.9%) were classified as the Trauma group and 1,625 (44.3%) as the No Trauma group; 345 were excluded due to missing abuse data. 57.5% of women (N = 2,108) reported high abuse scores on at least one item. Sense of control (M = 5.42, SD = 1.06), personal mastery (M = 5.78, SD = 1.04), and autonomy (M = 16.26, SD = 3.44) were assessed across 3,294 women with valid data.
 <img width="642" height="257" alt="6" src="https://github.com/user-attachments/assets/9935ff5e-11aa-4837-ad5a-a739a1f32e15" />
 
-Gender Comparison (Full Sample N = 7,108):<img width="605" height="380" alt="7" src="https://github.com/user-attachments/assets/5e9ff673-502a-460f-ab6a-eb8b757fa7ea" />
+Gender Comparison (Full Sample N = 7,108):
 
 Women showed significantly higher depression rates than men (16.0% vs 10.3%). Men showed higher substance use problem rates (3.7% vs 1.5%). A Welch's t-test confirmed that depressed affect scores were significantly higher in women than men (t = −8.452, p < 0.001, Cohen's d = −0.20).
 <img width="606" height="53" alt="1" src="https://github.com/user-attachments/assets/0dcdefd1-c10d-4a77-a49d-03599f5c1a6a" />
@@ -74,7 +74,7 @@ Women showed significantly higher depression rates than men (16.0% vs 10.3%). Me
 
 ## Group Comparison (Trauma vs No Trauma)
 All five outcomes differed significantly between groups. Women with a trauma history showed higher depression scores and substance use rates, and lower sense of control, mastery, and autonomy.
-<img width="605" height="380" alt="7" src="https://github.com/user-attachments/assets/906f7d1f-f2dc-4932-9a48-54e0fb56f947" />
+<img width="1389" height="887" alt="7" src="https://github.com/user-attachments/assets/d8ab1eea-ee70-4b26-bc58-ea02d7e33dca" />
 <img width="609" height="439" alt="8" src="https://github.com/user-attachments/assets/deeffc42-f9e3-4b48-9b2e-458879e47a0a" />
 <img width="1389" height="495" alt="9" src="https://github.com/user-attachments/assets/de206307-399c-414a-8257-77cf59fbea84" />
 
