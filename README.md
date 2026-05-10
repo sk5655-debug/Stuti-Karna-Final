@@ -39,7 +39,7 @@ pandas: For creating datsets and handling data. numpy: For calculations. seaborn
 ## Step 2: Comparing Men vs Women
 Compare men and women on depression and substance use rates using the full sample (N = 7,108).(Section 3-4)
 ## Step 3: Filtering for only women and cleaning the data
-Retain sample of only female respondents (N = 3,666). (Section 5-6)
+Retain sample of only female respondents (N = 3,666). (Section 5-6). Need to run this filtering section code in order for everything else to work. Otherwise, we need to start again from section 1.
 ## Step 4. Childhood Trauma Group Variable:
 Use the MIDUS composite childhood abuse score (A1SEMAPA) to create a binary trauma group variable. (Section 7)
 ## Step 5. Descriptive Statistics:
