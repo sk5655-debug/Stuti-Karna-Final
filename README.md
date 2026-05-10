@@ -58,44 +58,72 @@ Childhood trauma exposure was significantly associated with higher rates of depr
 
 # Results:
 ## Descriptive statistics:
+<img width="609" height="530" alt="5" src="https://github.com/user-attachments/assets/17c78c41-4d74-47a5-bf5e-b9652a15f513" />
 The analysis sample included 3,666 women with a mean age of 46.6 years (SD = 13.1, range 20–75). Education: 49.7% HS diploma/GED, 25.7% college degree or higher, 13.0% some college, 11.4% less than HS, 0.2% missing. Median household income was $48,000 (mean = $67,887, SD = $61,445, N = 3,087 with valid income data). Overall depression rate was 16.0% and substance use problem rate was 1.5%.
 
-
+<img width="606" height="109" alt="4" src="https://github.com/user-attachments/assets/9fe806b5-f795-458c-8179-addf9deb6890" />
 Of the 3,666 women, 1,684 (45.9%) were classified as the Trauma group and 1,625 (44.3%) as the No Trauma group; 345 were excluded due to missing abuse data. 57.5% of women (N = 2,108) reported high abuse scores on at least one item. Sense of control (M = 5.42, SD = 1.06), personal mastery (M = 5.78, SD = 1.04), and autonomy (M = 16.26, SD = 3.44) were assessed across 3,294 women with valid data.
+<img width="642" height="257" alt="6" src="https://github.com/user-attachments/assets/9935ff5e-11aa-4837-ad5a-a739a1f32e15" />
 
-Gender Comparison (Full Sample N = 7,108):
-<img width="606" height="53" alt="Screenshot 2026-05-10 at 3 23 28 PM" src="https://github.com/user-attachments/assets/b193fda0-0ed3-4c9c-8377-b558fc9ca7a1" />
+Gender Comparison (Full Sample N = 7,108):<img width="605" height="380" alt="7" src="https://github.com/user-attachments/assets/5e9ff673-502a-460f-ab6a-eb8b757fa7ea" />
 
 Women showed significantly higher depression rates than men (16.0% vs 10.3%). Men showed higher substance use problem rates (3.7% vs 1.5%). A Welch's t-test confirmed that depressed affect scores were significantly higher in women than men (t = −8.452, p < 0.001, Cohen's d = −0.20).
+<img width="606" height="53" alt="1" src="https://github.com/user-attachments/assets/0dcdefd1-c10d-4a77-a49d-03599f5c1a6a" />
+<img width="616" height="25" alt="2" src="https://github.com/user-attachments/assets/3b6c9764-134b-4c7b-9399-1a205012a18d" />
+<img width="608" height="300" alt="3" src="https://github.com/user-attachments/assets/49547da7-7162-4c79-ab08-39f1de54dd2d" />
 
 ## Group Comparison (Trauma vs No Trauma)
 All five outcomes differed significantly between groups. Women with a trauma history showed higher depression scores and substance use rates, and lower sense of control, mastery, and autonomy.
+<img width="605" height="380" alt="7" src="https://github.com/user-attachments/assets/906f7d1f-f2dc-4932-9a48-54e0fb56f947" />
+<img width="609" height="439" alt="8" src="https://github.com/user-attachments/assets/deeffc42-f9e3-4b48-9b2e-458879e47a0a" />
+<img width="1389" height="495" alt="9" src="https://github.com/user-attachments/assets/de206307-399c-414a-8257-77cf59fbea84" />
 
 ## Correlation Analysis (N = 3,046)
 All correlations use Spearman's rho. More abuse associated with worse outcomes.
+<img width="1355" height="153" alt="10" src="https://github.com/user-attachments/assets/5af8fcfb-5422-4778-93d1-978b75d19374" />
 
 ## Relationship between SES and childhood trauma
 A pattern emerged across the regression models: income predicted sense of control and substance use but not autonomy, while education predicted autonomy and depression but not substance use or mastery. This suggests that different socioeconomic resources may protect different dimensions of wellbeing, and that childhood trauma operates as an independent risk factor above and beyond these protective factors.
 
 ## Regression Models
-Depression:
+Depression
+<img width="642" height="304" alt="11  dep" src="https://github.com/user-attachments/assets/f04df213-d2b0-4920-ba84-d89280f99088" />
 Model 1 (unadjusted): add table pic 
 OR = 0.524, p < 0.001***. 
 Model 2 (adjusted): add table pic
 The effect of childhood trauma on depression persisted after controlling for all covariates.
 
-Substance Use:
+Substance Use
+<img width="631" height="260" alt="12  substance" src="https://github.com/user-attachments/assets/de6d939c-faa4-498e-a3d9-19b77f404f89" />
 Model 1 (unadjusted): OR = 0.447, p < 0.001***. 
 Model 2 (adjusted): abuse_score OR = 0.473 (p < 0.001***), log_income OR = 0.640 (p < 0.001***), education OR = 1.034 (ns), age OR = 0.969 (p < 0.05*). Education did not predict substance use after adjustment, but income and age did.
 
-Sense of Control:
+Sense of Control
+<img width="641" height="260" alt="13  control" src="https://github.com/user-attachments/assets/235bf947-5fbe-416b-9718-4dff9ebec287" />
 Model 1: β = 0.286, p < 0.001***. 
 Model 2 (adjusted): abuse_score β = 0.279 (p < 0.001***), log_income β = 0.128 (p < 0.001***), education β = 0.057 (p < 0.001***), age β = −0.008 (p < 0.001***). All predictors were significant.
 
-Personal Mastery:
+Personal Mastery
+<img width="641" height="260" alt="14  mastery " src="https://github.com/user-attachments/assets/13857d36-8fa7-40c7-a42c-000e0b82e1bc" />
 Model 1: β = 0.233, p < 0.001***. 
 Model 2 (adjusted): abuse_score β = 0.233 (p < 0.001***), log_income β = 0.050 (p < 0.05*), education β = 0.014 (ns), age β = −0.005 (p < 0.01**). Education did not predict mastery after adjustment.
 
-Autonomy:
+Autonomy
+<img width="641" height="260" alt="15  autonomy" src="https://github.com/user-attachments/assets/007e2d0a-622a-4254-bba7-31f5034c1cd2" />
 Model 1: β = 0.576, p < 0.001***. 
 Model 2 (adjusted): abuse_score β = 0.523 (p < 0.001***), log_income β = 0.039 (ns), education β = 0.069 (p < 0.05*), age β = 0.035 (p < 0.001***). Income did not predict autonomy after adjustment, but education and age did.
+
+<img width="1990" height="495" alt="16" src="https://github.com/user-attachments/assets/012ba0e5-f3d7-4d49-9780-5ce8ab4cd7f6" />
+### Depression and Substance Use
+For every one unit increase in abuse score (i.e. less abuse), the odds of depression dropped by ~46%. Conversely, more abuse had significantly higher odds of depression and substance use problems, even after controlling for everything else. 
+Education had a small but significant protective effect on depression and older women in this sample had slightly lower odds of depression and substance use.
+Income was a stronger protective factor for substance use than for depression.
+
+### Sense of Control, Mastery, Autonomy
+Higher abuse score (less abuse) predicted significantly more control, mastery, and autonomy. Trauma erodes all three psychological resources
+Income predicted control and mastery but barely predicted autonomy.
+Education predicted autonomy and control but not mastery.
+Age was slightly negative for control and mastery (older women feel slightly less in control), but positive for autonomy (older women feel more autonomous).
+
+Results are in support of the primary research question that childhood trauma does seem to predict worse adult mental health and lower psychological resources in women, independently of socioeconomic status.
+The secondary finding worth highlighting is the income vs education dissociation: income protected against substance use and sense of control, while education protected against depression and autonomy — suggesting different psychological pathways.
