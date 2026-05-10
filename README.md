@@ -20,10 +20,10 @@ Sample size: N = 7,108 respondents
 
 The MIDUS 1 is a nationally representative survey of US adults aged 25–74 covering physical health, mental health, and life experiences including childhood adversity. The data has been de-identified.
 
-## Research Questions:
-# Primary: 
+# Research Questions:
+## Primary: 
 Do women with a history of childhood abuse show higher rates of depression, substance use, and lower sense of control and autonomy compared to women with no such history?
-# Secondary: 
+## Secondary: 
 Does childhood trauma predict these outcomes above and beyond what is explained by income, education, and age?
 
 ## Variable Construction
@@ -33,28 +33,28 @@ Education APPB1 has been callapsed to 4 groups. Income A1SHHTOT has been log-tra
 to run this code you need Python (version 3.9 or higher). 
 pandas: For creating datsets and handling data. numpy: For calculations. seaborn: for statistical visualization. matplotlib:	for plotting graphs. scipy.stats	To run statistical tests. sklearn: for machine learning and statsmodels: for	statistical modeling/regression.
 
-## How to Run the Analysis
-# Step 1. Data cleaning & descriptives:
+# How to Run the Analysis
+## Step 1. Data cleaning & descriptives:
  Load dataset from GitHub. Recode diagnosis variables from SPSS coding (1=yes, 2=no) to binary (1/0). Replace refused and don't know codes with NaN. Log-transform household income to correct for positive skew. (Section 1-2)
-# Step 2: Comparing Men vs Women
+## Step 2: Comparing Men vs Women
 Compare men and women on depression and substance use rates using the full sample (N = 7,108).(Section 3-4)
-# Step 3: Filtering for only women and cleaning the data
+## Step 3: Filtering for only women and cleaning the data
 Retain sample of only female respondents (N = 3,666). (Section 5-6)
-# Step 4. Childhood Trauma Group Variable:
+## Step 4. Childhood Trauma Group Variable:
 Use the MIDUS composite childhood abuse score (A1SEMAPA) to create a binary trauma group variable. (Section 7)
-# Step 5. Descriptive Statistics:
+## Step 5. Descriptive Statistics:
 Regroup Data. Examine distributions of income, depression scores, education, and age. Compare depression and substance use rates between the two groups.(Section 8-9)
-# Step 6. Group Comparison:
+## Step 6. Group Comparison:
 Use a Welch's t-test to compare depressed affect scores between the Trauma and No Trauma groups. (Section 10-13)
-# Step 7. Correlation Analysis:
+## Step 7. Correlation Analysis:
 Run Spearman correlations between the abuse score, depression, substance use, income, and education.(Section 14)
-# Step 8 — Regression Models:
+## Step 8. Regression Models:
 Run unadjusted (Model 1) and adjusted (Model 2) regression models for each outcome separately, using logistic regression for binary outcomes and OLS for continuous outcomes. Visualize with Odds Ratio Plot. (Section 15-16)
 
 ## Key Finding
 Childhood trauma exposure was significantly associated with higher rates of depression and substance use problems, and with lower sense of control, personal mastery, and psychological autonomy in adult women. These associations persisted after controlling for income, education, and age across all five outcomes, indicating that the long-term impact of childhood abuse on mental health and psychological resources is not reducible to socioeconomic disadvantage alone.
 
-## Results:
+# Results:
 ## Descriptive statistics:
 The analysis sample included 3,666 women with a mean age of 46.6 years (SD = 13.1, range 20–75). Education: 49.7% HS diploma/GED, 25.7% college degree or higher, 13.0% some college, 11.4% less than HS, 0.2% missing. Median household income was $48,000 (mean = $67,887, SD = $61,445, N = 3,087 with valid income data). Overall depression rate was 16.0% and substance use problem rate was 1.5%.
 
