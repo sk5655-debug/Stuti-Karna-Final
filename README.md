@@ -80,7 +80,7 @@ All five outcomes differed significantly between groups. Women with a trauma his
 
 ## Correlation Analysis (N = 3,046)
 All correlations use Spearman's rho. More abuse associated with worse outcomes.
-<img width="1355" height="153" alt="10" src="https://github.com/user-attachments/assets/5af8fcfb-5422-4778-93d1-978b75d19374" />
+<img width="646" height="157" alt="10" src="https://github.com/user-attachments/assets/628a73a6-ff9f-4044-8438-64241ef5576e" />
 
 ## Relationship between SES and childhood trauma
 A pattern emerged across the regression models: income predicted sense of control and substance use but not autonomy, while education predicted autonomy and depression but not substance use or mastery. This suggests that different socioeconomic resources may protect different dimensions of wellbeing, and that childhood trauma operates as an independent risk factor above and beyond these protective factors.
