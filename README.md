@@ -31,7 +31,7 @@ Education APPB1 has been callapsed to 4 groups. Income A1SHHTOT has been log-tra
 
 ## Dependencies
 to run this code you need Python (version 3.9 or higher). 
-pandas: For creating datsets and handling data. numpy: For calculations. seaborn: for statistical visualization. matplotlib:	for plotting graphs. scipy.stats	To run statistical tests. sklearn: for machine learning and statsmodels: for	statistical modeling/regression.
+pandas: For creating datsets and handling data. numpy: For calculations. seaborn: for statistical visualization. matplotlib:	for plotting graphs. scipy.stats	To run statistical tests. statsmodels: for	statistical modeling/regression.
 
 # How to Run the Analysis
 ## Step 1. Data cleaning & descriptives:
