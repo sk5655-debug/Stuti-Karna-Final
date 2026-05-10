@@ -60,9 +60,12 @@ Childhood trauma exposure was significantly associated with higher rates of depr
 ## Descriptive statistics:
 The analysis sample included 3,666 women with a mean age of 46.6 years (SD = 13.1, range 20–75). Education: 49.7% HS diploma/GED, 25.7% college degree or higher, 13.0% some college, 11.4% less than HS, 0.2% missing. Median household income was $48,000 (mean = $67,887, SD = $61,445, N = 3,087 with valid income data). Overall depression rate was 16.0% and substance use problem rate was 1.5%.
 
+
 Of the 3,666 women, 1,684 (45.9%) were classified as the Trauma group and 1,625 (44.3%) as the No Trauma group; 345 were excluded due to missing abuse data. 57.5% of women (N = 2,108) reported high abuse scores on at least one item. Sense of control (M = 5.42, SD = 1.06), personal mastery (M = 5.78, SD = 1.04), and autonomy (M = 16.26, SD = 3.44) were assessed across 3,294 women with valid data.
 
 Gender Comparison (Full Sample N = 7,108):
+<img width="606" height="53" alt="Screenshot 2026-05-10 at 3 23 28 PM" src="https://github.com/user-attachments/assets/b193fda0-0ed3-4c9c-8377-b558fc9ca7a1" />
+
 Women showed significantly higher depression rates than men (16.0% vs 10.3%). Men showed higher substance use problem rates (3.7% vs 1.5%). A Welch's t-test confirmed that depressed affect scores were significantly higher in women than men (t = −8.452, p < 0.001, Cohen's d = −0.20).
 
 ## Group Comparison (Trauma vs No Trauma)
