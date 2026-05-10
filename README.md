@@ -1,3 +1,5 @@
+# Childhood Trauma and Women's Mental Health
+
 # Data Analysis Plan
 
 In the present analysis, childhood trauma exposure will be examined as the primary independent variable (IV), and five adult mental health outcomes will serve as dependent variables (DV): depression diagnosis, substance use, depressed affect score, sense of personal control, and psychological autonomy. 
