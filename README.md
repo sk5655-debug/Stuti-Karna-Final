@@ -86,8 +86,10 @@ Personal Mastery has a very similar pattern to control, even though the differen
 Autonomy: Both groups have a similar overall shape, but the No Trauma group's median is higher.
 
 ## Correlation Analysis (N = 3,046)
-All correlations use Spearman's rho. More abuse associated with worse outcomes.
+All correlations use Spearman's rho.
 <img width="646" height="157" alt="10" src="https://github.com/user-attachments/assets/628a73a6-ff9f-4044-8438-64241ef5576e" />
+Negative correlations for depression and substance use indicate that more childhood abuse was associated with greater likelihood of both outcomes. The positive correlations with sense of control, mastery, and autonomy suggest that women who experienced more abuse reported weaker psychological resources, though all effect sizes were small (r = 0.06–0.18). Income and education showed similar small negative associations with depression, meaning lower socioeconomic status was linked to higher depression rates, consistent with the broader literature.
+*since abuse_score is coded where lower = more abuse, every correlation's direction is flipped.
 
 ## Relationship between SES and childhood trauma
 A pattern emerged across the regression models: income predicted sense of control and substance use but not autonomy, while education predicted autonomy and depression but not substance use or mastery. This suggests that different socioeconomic resources may protect different dimensions of wellbeing, and that childhood trauma operates as an independent risk factor above and beyond these protective factors.
