@@ -60,7 +60,7 @@ Childhood trauma exposure was significantly associated with higher rates of depr
 
 # Results:
 ## Descriptive statistics:
-<img width="609" height="530" alt="5" src="https://github.com/user-attachments/assets/17c78c41-4d74-47a5-bf5e-b9652a15f513" />
+<img width="497" height="535" alt="5" src="https://github.com/user-attachments/assets/eff1947a-4aed-4ed5-b479-9738c7d072bb" />
 The analysis sample included 3,666 women with a mean age of 46.6 years (SD = 13.1, range 20–75). Education: 49.7% HS diploma/GED, 25.7% college degree or higher, 13.0% some college, 11.4% less than HS, 0.2% missing. Median household income was $48,000 (mean = $67,887, SD = $61,445, N = 3,087 with valid income data). Overall depression rate was 16.0% and substance use problem rate was 1.5%.
 
 <img width="606" height="109" alt="4" src="https://github.com/user-attachments/assets/9fe806b5-f795-458c-8179-addf9deb6890" />
