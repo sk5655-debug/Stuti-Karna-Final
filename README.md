@@ -13,7 +13,7 @@ Correlations will be computed between the childhood abuse score and each outcome
 To evaluate whether the association between childhood trauma and adult mental health persists after accounting for socioeconomic factors, we will use a regression model separately for each outcome. For binary outcomes such as depression diagnosis and substance use Logistic regression will be used and for continuous outcomes (depressed affect score, sense of control, personal mastery, and autonomy) ordinary least squares (OLS) regression will be used. Each outcome will be modelled twice: first with abuse score as the sole predictor (Model 1), and then with income, education, and age added as covariates (Model 2).
 
 ## Dataset & Population
-Midlife in the United States (MIDUS 1), 1994–1995**
+Midlife in the United States (MIDUS 1), 1994–1995
 
 Source: Inter-university Consortium for Political and Social Research (ICPSR), Study No. 2760
 
