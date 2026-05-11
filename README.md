@@ -16,7 +16,9 @@ To evaluate whether the association between childhood trauma and adult mental he
 Midlife in the United States (MIDUS 1), 1994–1995**
 
 Source: Inter-university Consortium for Political and Social Research (ICPSR), Study No. 2760
+
 URL: https://www.icpsr.umich.edu/web/NACDA/studies/2760
+
 Citation: Brim, O. G., Ryff, C. D., & Kessler, R. C. (2004). *Midlife in the United States (MIDUS 1), 1994–1995*. ICPSR02760-v19. Ann Arbor, MI: Inter-university Consortium for Political and Social Research.
 Sample size: N = 7,108 respondents
 
