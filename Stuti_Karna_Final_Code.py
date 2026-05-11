@@ -243,7 +243,7 @@ for ax, (var, title, is_pct) in zip(axes.ravel(), plot_vars): #ravel to flatten 
 
   t_mean = trauma[var].mean() #using the trauma group means
   nt_mean = no_trauma[var].mean()
-  if is_pct:
+  if is_pct: #is a percentage
     t_mean *= 100
     nt_mean *= 100
 
