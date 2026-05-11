@@ -68,7 +68,7 @@ Of the 3,666 women, 1,684 (45.9%) were classified as the Trauma group and 1,625 
 Gender Comparison (Full Sample N = 7,108):
 
 Women showed significantly higher depression rates than men (16.0% vs 10.3%). Men showed higher substance use problem rates (3.7% vs 1.5%). A Welch's t-test confirmed that depressed affect scores were significantly higher in women than men (t = −8.452, p < 0.001, Cohen's d = −0.20).
-<img width="606" height="53" alt="1" src="https://github.com/user-attachments/assets/0dcdefd1-c10d-4a77-a49d-03599f5c1a6a" />
+<img width="501" height="95" alt="1" src="https://github.com/user-attachments/assets/65afc49e-10b9-4ef5-892c-febb612558fe" />
 <img width="616" height="25" alt="2" src="https://github.com/user-attachments/assets/3b6c9764-134b-4c7b-9399-1a205012a18d" />
 <img width="608" height="300" alt="3" src="https://github.com/user-attachments/assets/49547da7-7162-4c79-ab08-39f1de54dd2d" />
 
