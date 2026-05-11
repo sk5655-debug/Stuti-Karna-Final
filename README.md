@@ -38,21 +38,21 @@ to run this code you need Python (version 3.9 or higher).
 pandas: For creating datsets and handling data. numpy: For calculations. seaborn: for statistical visualization. matplotlib:	for plotting graphs. scipy.stats	To run statistical tests. statsmodels: for	statistical modeling/regression.
 
 # How to Run the Analysis
-## Step 1. Data cleaning & descriptives:
+### Step 1. Data cleaning & descriptives
  Load dataset from GitHub. Recode diagnosis variables from SPSS coding (1=yes, 2=no) to binary (1/0). Replace refused and don't know codes with NaN. Log-transform household income to correct for positive skew. (Section 1-2)
-## Step 2: Comparing Men vs Women
+### Step 2: Comparing Men vs Women
 Compare men and women on depression and substance use rates using the full sample (N = 7,108).(Section 3-4)
-## Step 3: Filtering for only women and cleaning the data
+### Step 3: Filtering for only women and cleaning the data
 Retain sample of only female respondents (N = 3,666). (Section 5-6). Need to run this filtering section code in order for everything else to work. Otherwise, we need to start again from section 1.
-## Step 4. Childhood Trauma Group Variable:
+### Step 4. Childhood Trauma Group Variable
 Use the MIDUS composite childhood abuse score (A1SEMAPA) to create a binary trauma group variable. (Section 7)
-## Step 5. Descriptive Statistics:
+### Step 5. Descriptive Statistics
 Regroup Data. Examine distributions of income, depression scores, education, and age. Compare depression and substance use rates between the two groups.(Section 8-9)
-## Step 6. Group Comparison:
+### Step 6. Group Comparison
 Use a Welch's t-test to compare depressed affect scores between the Trauma and No Trauma groups. (Section 10-13)
-## Step 7. Correlation Analysis:
+### Step 7. Correlation Analysis
 Run Spearman correlations between the abuse score, depression, substance use, income, and education.(Section 14)
-## Step 8. Regression Models:
+### Step 8. Regression Models
 Run unadjusted (Model 1) and adjusted (Model 2) regression models for each outcome separately, using logistic regression for binary outcomes and OLS for continuous outcomes. Visualize with Odds Ratio Plot. (Section 15-16)
 
 ## Key Finding
