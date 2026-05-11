@@ -123,6 +123,7 @@ Model 1: β = 0.576, p < 0.001***.
 Model 2 (adjusted): abuse_score β = 0.523 (p < 0.001***), log_income β = 0.039 (ns), education β = 0.069 (p < 0.05*), age β = 0.035 (p < 0.001***). Income did not predict autonomy after adjustment, but education and age did.
 
 <img width="1990" height="495" alt="16" src="https://github.com/user-attachments/assets/012ba0e5-f3d7-4d49-9780-5ce8ab4cd7f6" />
+
 ### Depression and Substance Use
 For every one unit increase in abuse score (i.e. less abuse), the odds of depression dropped by ~46%. Conversely, more abuse had significantly higher odds of depression and substance use problems, even after controlling for everything else. 
 Education had a small but significant protective effect on depression and older women in this sample had slightly lower odds of depression and substance use.
