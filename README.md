@@ -77,8 +77,13 @@ Women showed significantly higher depression rates than men (16.0% vs 10.3%). Me
 ## Group Comparison (Trauma vs No Trauma)
 All five outcomes differed significantly between groups. Women with a trauma history showed higher depression scores and substance use rates, and lower sense of control, mastery, and autonomy.
 <img width="1389" height="887" alt="7" src="https://github.com/user-attachments/assets/d8ab1eea-ee70-4b26-bc58-ea02d7e33dca" />
+In the depressed affect score: the Trauma group is nearly double the No Trauma bar group.
 <img width="609" height="439" alt="8" src="https://github.com/user-attachments/assets/deeffc42-f9e3-4b48-9b2e-458879e47a0a" />
+The wide base at 0 in both groups means that most women in both groups reported no depressive symptoms — which is expected in a non-clinical sample. However, the Trauma group has a noticeably wider and fuller body from scores 1–4, meaning more women in that group are scoring in the mild-to-moderate range. The thin tail reaching 7 exists in both groups but is slightly more pronounced in the Trauma group, representing the small proportion with high depressive symptom counts.
 <img width="1389" height="495" alt="9" src="https://github.com/user-attachments/assets/de206307-399c-414a-8257-77cf59fbea84" />
+Sense of Control: both groups are centred high but the Trauma group has a longer lower tail, stretching down toward 1–2. The No Trauma group is more tightly packed in the upper range. Trauma doesn't make everyone feel out of control, but it does produce a subset of women who feel very low control.
+Personal Mastery has a very similar pattern to control, even though the difference between the two groups is slightly smaller. Both groups peak around 5–6, but the Trauma group again has more mass in the lower scores.
+Autonomy: Both groups have a similar overall shape, but the No Trauma group's median is higher.
 
 ## Correlation Analysis (N = 3,046)
 All correlations use Spearman's rho. More abuse associated with worse outcomes.
