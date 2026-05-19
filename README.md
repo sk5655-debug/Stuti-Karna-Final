@@ -61,33 +61,44 @@ Childhood trauma exposure was significantly associated with higher rates of depr
 # Results:
 ## Descriptive statistics:
 <img width="497" height="535" alt="5" src="https://github.com/user-attachments/assets/eff1947a-4aed-4ed5-b479-9738c7d072bb" />
+
 The analysis sample included 3,666 women with a mean age of 46.6 years (SD = 13.1, range 20–75). Education: 49.7% HS diploma/GED, 25.7% college degree or higher, 13.0% some college, 11.4% less than HS, 0.2% missing. Median household income was $48,000 (mean = $67,887, SD = $61,445, N = 3,087 with valid income data). Overall depression rate was 16.0% and substance use problem rate was 1.5%.
 
 <img width="606" height="109" alt="4" src="https://github.com/user-attachments/assets/9fe806b5-f795-458c-8179-addf9deb6890" />
+
 Of the 3,666 women, 1,684 (45.9%) were classified as the Trauma group and 1,625 (44.3%) as the No Trauma group; 345 were excluded due to missing abuse data. 57.5% of women (N = 2,108) reported high abuse scores on at least one item. Sense of control (M = 5.42, SD = 1.06), personal mastery (M = 5.78, SD = 1.04), and autonomy (M = 16.26, SD = 3.44) were assessed across 3,294 women with valid data.
+
 <img width="642" height="257" alt="6" src="https://github.com/user-attachments/assets/9935ff5e-11aa-4837-ad5a-a739a1f32e15" />
 
 Gender Comparison (Full Sample N = 7,108):
 
 Women showed significantly higher depression rates than men (16.0% vs 10.3%). Men showed higher substance use problem rates (3.7% vs 1.5%). A Welch's t-test confirmed that depressed affect scores were significantly higher in women than men (t = −8.452, p < 0.001, Cohen's d = −0.20).
+
 <img width="501" height="95" alt="1" src="https://github.com/user-attachments/assets/65afc49e-10b9-4ef5-892c-febb612558fe" />
 <img width="616" height="25" alt="2" src="https://github.com/user-attachments/assets/3b6c9764-134b-4c7b-9399-1a205012a18d" />
 <img width="608" height="300" alt="3" src="https://github.com/user-attachments/assets/49547da7-7162-4c79-ab08-39f1de54dd2d" />
 
 ## Group Comparison (Trauma vs No Trauma)
 All five outcomes differed significantly between groups. Women with a trauma history showed higher depression scores and substance use rates, and lower sense of control, mastery, and autonomy.
+
 <img width="1389" height="887" alt="7" src="https://github.com/user-attachments/assets/d8ab1eea-ee70-4b26-bc58-ea02d7e33dca" />
+
 In the depressed affect score: the Trauma group is nearly double the No Trauma bar group.
 <img width="609" height="439" alt="8" src="https://github.com/user-attachments/assets/deeffc42-f9e3-4b48-9b2e-458879e47a0a" />
+
 The wide base at 0 in both groups means that most women in both groups reported no depressive symptoms — which is expected in a non-clinical sample. However, the Trauma group has a noticeably wider and fuller body from scores 1–4, meaning more women in that group are scoring in the mild-to-moderate range. The thin tail reaching 7 exists in both groups but is slightly more pronounced in the Trauma group, representing the small proportion with high depressive symptom counts.
+
 <img width="1389" height="495" alt="9" src="https://github.com/user-attachments/assets/de206307-399c-414a-8257-77cf59fbea84" />
+
 Sense of Control: both groups are centred high but the Trauma group has a longer lower tail, stretching down toward 1–2. The No Trauma group is more tightly packed in the upper range. Trauma doesn't make everyone feel out of control, but it does produce a subset of women who feel very low control.
 Personal Mastery has a very similar pattern to control, even though the difference between the two groups is slightly smaller. Both groups peak around 5–6, but the Trauma group again has more mass in the lower scores.
 Autonomy: Both groups have a similar overall shape, but the No Trauma group's median is higher.
 
 ## Correlation Analysis (N = 3,046)
 All correlations use Spearman's rho.
+
 <img width="646" height="157" alt="10" src="https://github.com/user-attachments/assets/628a73a6-ff9f-4044-8438-64241ef5576e" />
+
 Negative correlations for depression and substance use indicate that more childhood abuse was associated with greater likelihood of both outcomes. The positive correlations with sense of control, mastery, and autonomy suggest that women who experienced more abuse reported weaker psychological resources, though all effect sizes were small (r = 0.06–0.18). Income and education showed similar small negative associations with depression, meaning lower socioeconomic status was linked to higher depression rates, consistent with the broader literature.
 *since abuse_score is coded where lower = more abuse, every correlation's direction is flipped.
 
@@ -97,28 +108,34 @@ A pattern emerged across the regression models: income predicted sense of contro
 ## Regression Models
 Depression
 <img width="642" height="304" alt="11  dep" src="https://github.com/user-attachments/assets/f04df213-d2b0-4920-ba84-d89280f99088" />
-Model 1 (unadjusted): add table pic 
+
+Model 1 (unadjusted):
 OR = 0.524, p < 0.001***. 
-Model 2 (adjusted): add table pic
+Model 2 (adjusted):
 The effect of childhood trauma on depression persisted after controlling for all covariates.
 
 Substance Use
+
 <img width="631" height="260" alt="12  substance" src="https://github.com/user-attachments/assets/de6d939c-faa4-498e-a3d9-19b77f404f89" />
+
 Model 1 (unadjusted): OR = 0.447, p < 0.001***. 
 Model 2 (adjusted): abuse_score OR = 0.473 (p < 0.001***), log_income OR = 0.640 (p < 0.001***), education OR = 1.034 (ns), age OR = 0.969 (p < 0.05*). Education did not predict substance use after adjustment, but income and age did.
 
 Sense of Control
 <img width="641" height="260" alt="13  control" src="https://github.com/user-attachments/assets/235bf947-5fbe-416b-9718-4dff9ebec287" />
+
 Model 1: β = 0.286, p < 0.001***. 
 Model 2 (adjusted): abuse_score β = 0.279 (p < 0.001***), log_income β = 0.128 (p < 0.001***), education β = 0.057 (p < 0.001***), age β = −0.008 (p < 0.001***). All predictors were significant.
 
 Personal Mastery
 <img width="641" height="260" alt="14  mastery " src="https://github.com/user-attachments/assets/13857d36-8fa7-40c7-a42c-000e0b82e1bc" />
+
 Model 1: β = 0.233, p < 0.001***. 
 Model 2 (adjusted): abuse_score β = 0.233 (p < 0.001***), log_income β = 0.050 (p < 0.05*), education β = 0.014 (ns), age β = −0.005 (p < 0.01**). Education did not predict mastery after adjustment.
 
 Autonomy
 <img width="641" height="260" alt="15  autonomy" src="https://github.com/user-attachments/assets/007e2d0a-622a-4254-bba7-31f5034c1cd2" />
+
 Model 1: β = 0.576, p < 0.001***. 
 Model 2 (adjusted): abuse_score β = 0.523 (p < 0.001***), log_income β = 0.039 (ns), education β = 0.069 (p < 0.05*), age β = 0.035 (p < 0.001***). Income did not predict autonomy after adjustment, but education and age did.
 
